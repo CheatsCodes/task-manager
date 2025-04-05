@@ -1,0 +1,46 @@
+{
+  "devDependencies": {
+    "autoprefixer": "^10.4.21",
+    "postcss": "^8.5.3",
+    "tailwindcss": "^4.1.3"
+  },
+  "name": "task-manager",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "@prisma/client": "^6.5.0",
+    "@types/node": "^22.14.0",
+    "browserslist": "^4.24.4",
+    "caniuse-lite": "^1.0.30001711",
+    "cors": "^2.8.5",
+    "electron-to-chromium": "^1.5.132",
+    "escalade": "^3.2.0",
+    "express": "^5.1.0",
+    "fraction.js": "^4.3.7",
+    "nanoid": "^3.3.11",
+    "node-releases": "^2.0.19",
+    "normalize-range": "^0.1.2",
+    "picocolors": "^1.1.1",
+    "postcss-value-parser": "^4.2.0",
+    "prisma": "^6.5.0",
+    "source-map-js": "^1.2.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "update-browserslist-db": "^1.1.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CheatsCodes/task-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CheatsCodes/task-manager/issues"
+  },
+  "homepage": "https://github.com/CheatsCodes/task-manager#readme"
+}
